@@ -1,1 +1,1 @@
-# Mathematics-related-C-and-Python-Programs
+# Mathematics-related-C-Language-Programs
